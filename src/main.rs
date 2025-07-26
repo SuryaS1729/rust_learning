@@ -512,5 +512,5 @@ fn main(){
     let name = String::from("sahithi");
     let user= User{
         name: &name
-    }
+    };
 }
